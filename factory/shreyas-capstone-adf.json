@@ -1,0 +1,9 @@
+{
+	"name": "shreyas-capstone-adf",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1ce85437-b0cf-45a7-a83f-5e277ca8480e",
+		"tenantId": "2d2199a8-cb98-4269-b2ae-c63cf2b7c7f0"
+	}
+}
